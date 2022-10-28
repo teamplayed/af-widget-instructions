@@ -23,6 +23,4 @@ these attributes can be added to the `<played-activity-widget>` HTML element to 
 | font   | The font        | Arial        |
 | main-title   | Controls the main title text        | Get Active        |
 | sub-title   | Controls the sub title text        | Search for activities        |
-| powered-by   | Powered by text        | Played Sports        |
-| powered-by-org-color   | Powered by font colour        | #000        |
 | primary-color   | Button and icon colours        | #2341bc        |
